@@ -3,4 +3,4 @@
 use strict;
 use warnings;
 
-print "Howdy, world!\n";
+print "Howdy world\n";
